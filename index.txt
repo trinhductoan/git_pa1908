@@ -1,3 +1,4 @@
 
 Hello world !
 My name's Toan.
+This is Friday.
